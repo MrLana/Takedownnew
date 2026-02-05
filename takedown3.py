@@ -1,4 +1,4 @@
-import requests
+gitaasyvarly requests
 import threading
 import time
 import random
@@ -8,7 +8,7 @@ import base64
 from cryptography.fernet import Fernet
 
 # TARGET AKUN
-TARGET_USERNAME = "gitaasyvarly"
+TARGET_USERNAME = "gitaasyvirly"
 TARGET_ID = ""  # Akan diambil otomatis
 
 # KONFIGURASI SERANGAN
